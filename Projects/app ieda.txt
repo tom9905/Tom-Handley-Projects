@@ -1,3 +1,0 @@
-App idea 
-
-when a persons calls you grab there IP resulting in it being returned in the application.
