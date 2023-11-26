@@ -1,0 +1,2 @@
+Here lays the project folder for the basic movement of the chess bot. 
+You can currently play against the bot in the console however due to complications this version doesnt have the move generation. so the bot will move at random
